@@ -1,2 +1,2 @@
 # github-practice
-Practice 1 with duff
+Practice 2 without duff
